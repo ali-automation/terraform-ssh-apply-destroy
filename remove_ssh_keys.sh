@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SSH_USER="ta3leem"
+SSH_USER="user"
 SSH_KEY_PATH=$HOME/.ssh/id_rsa.pub
 
 # Escape the public key to avoid sed errors
